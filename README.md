@@ -1,4 +1,4 @@
-# Database Schema Examples
+# Database =chema
 
 Данный репозиторий содержит набор **production-ready SQL-схем баз данных**, предназначенных для реальных проектов: **CRM, SaaS, ERP и административных панелей**.
 
@@ -30,5 +30,5 @@ db/
 ├── 06_comments.sql           # Комментарии и модерация
 ├── 07_payments.sql           # Платежи и транзакции
 ├── 08_support_tickets.sql    # Система поддержки
-├── 09_notifications.sql     # Уведомления пользователей
+├── 09_notifications.sql      # Уведомления пользователей
 └── 10_audit_logs.sql         # Аудит и журнал действий
